@@ -8,7 +8,7 @@
 
 - MCU：STM32F103C8T6
 - 姿态传感器：MPU6050（DMP）
-- 电机驱动：TB6612 / L298N
+- 电机驱动：TB6612 
 - 显示：OLED（I2C）
 - 遥控：蓝牙 / 无线串口
 - 其他：编码器电机、超声波等
@@ -37,3 +37,11 @@
 1. 使用 Keil MDK 打开 `MDK-ARM/OLED.uvprojx`
 2. 编译工程
 3. 通过 ST-Link 或串口烧录
+
+## 演示视频链接：https://b23.tv/JmnlMby
+
+## 实物图
+
+<img width="1280" height="2323" alt="d47de06f520046b207b8547b8f081f70_720" src="https://github.com/user-attachments/assets/811bd444-b277-40ec-842f-ec917c13737c" />
+
+

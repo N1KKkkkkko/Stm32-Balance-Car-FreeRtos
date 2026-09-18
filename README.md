@@ -38,10 +38,17 @@
 2. 编译工程
 3. 通过 ST-Link 或串口烧录
 
+---
+
 ## 演示视频链接：https://b23.tv/JmnlMby
 
 ## 实物图
 
-<img width="1280" height="2323" alt="d47de06f520046b207b8547b8f081f70_720" src="https://github.com/user-attachments/assets/811bd444-b277-40ec-842f-ec917c13737c" />
+<img width="1280" height="705" alt="bee0d3432194a92507a24ee71392079f_720" src="https://github.com/user-attachments/assets/f399bc1b-3e38-4d1f-9eb3-dc2f4be50147" />
+
+---
+
+联系方式：1995466@qq.com
+
 
 

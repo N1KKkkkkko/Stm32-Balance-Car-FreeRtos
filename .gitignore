@@ -3,3 +3,19 @@ doc/
 
 #开发临时测试
 __pycache__/
+
+
+# 忽略 MDK-ARM 下所有内容(编译产生的文件)
+MDK-ARM/*
+# 放行必要的工程文件和源码
+!MDK-ARM/OLED.uvprojx
+!MDK-ARM/OLED.uvoptx
+!MDK-ARM/startup_stm32f103xb.s
+
+# 日志与崩溃文件
+*.log
+hs_err_pid*.log
+
+# VS Code 工作区
+.vscode/
+*.code-workspace

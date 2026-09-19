@@ -4,6 +4,10 @@
 
 本项目是一个基于 STM32F103 单片机和 FreeRTOS 实时操作系统的两轮自平衡小车。通过 MPU6050 获取姿态数据，使用 PID 算法控制电机，蓝牙进行操控，实现小车直立平衡、行进与转向。
 
+## 演示
+<img width="360" height="197" alt="平衡车演示" src="https://github.com/user-attachments/assets/1d4c31c9-5916-4a3a-9e41-5a6f76aea036" />
+
+
 ## 硬件平台
 
 - MCU：STM32F103C8T6
